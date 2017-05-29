@@ -3,7 +3,7 @@
 
 ## نحوه نصب
 ```bash
-git clone https://github.com/tabchis/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/Source-advan/tabchi1.git && cd tabchi1 && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## ساخت ربات!
 ```
@@ -27,5 +27,5 @@ Run : ./tabchi-0.sh
 برای اتو لانج یا روشن بودن خودکار دستور زیر را وارد کنید در پوشه تبچی
 ./telegamer.sh
 
-#### channel      [te1egamer](https://telegram.me/te1egamer)
+#### me      [te1egamer](https://t.me/Heh_chie)
 
